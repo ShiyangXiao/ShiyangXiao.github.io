@@ -88,7 +88,10 @@ sections:
     id: section-1
     content:
       title: Publications
-      text: - sdsdsdddsdddddd 
+      text: 
+      ## sdsdsdddsdddddd 
+      ## lllll
+      ## kkkk
     design:
       columns: '2'
 ---
