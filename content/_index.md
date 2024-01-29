@@ -65,6 +65,15 @@ sections:
       columns: '2'
       view: list
   - block: collection
+    content:
+      title: Publications
+      text: '1.aa
+             2.bb
+             3.cc'
+    design:
+      columns: '2'
+      view: list
+  - block: collection
     id: talks
     content:
       title: Recent & Upcoming Talks
