@@ -7,6 +7,7 @@ title: 'The Dilemma of Political Control'
 authors:
   - admin
   - Yilin Hou
+  - Mary Lovely
 
 # Author notes (optional)
 author_notes:
