@@ -115,6 +115,5 @@ My research interests span the fields of public administration, policy process, 
 
 If you have any question, feel free to email me at sxiao11@syr.edu.
 
-
-
 [jpart]: https://academic.oup.com/jpart/article-abstract/32/2/342/6325144?redirectedFrom=fulltext
+
