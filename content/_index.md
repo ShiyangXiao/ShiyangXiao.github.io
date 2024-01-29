@@ -56,10 +56,9 @@ sections:
   - block: collection
     content:
       title: Publications
-      text: 
-      1. sdsd
-      2. sddsdsdsd
-      3. dddddddd
+      text: 1. sdsd; 
+            2. sddsdsdsd;
+            3. dddddddd
     design:
       columns: '2'
       view: list
