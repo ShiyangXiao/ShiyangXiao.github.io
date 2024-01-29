@@ -81,30 +81,10 @@ sections:
       <p>[1] Summer 2019, Public Policy and Good Governance Program, Teaching Assistant<br>Maxwell School of Citizenship and Public Affairs, Syracuse University</br></p>
       <p>[2] Spring 2017, Development Strategy and Planning, Teaching Assistant<br>School of Public Policy & Management, Tsinghua University</br></p>
       <p><strong>Guest Lectures</strong></p>
-      <p>2021, “Big Data Methods in Social Science Research”<br>Hamilton College</br></p>
-      <p>2021, “2021, Two-Day Lecture on “Application of Big Data Methods in Social Science Research: Take Computational Text Analysis as an Example””<br>School of Public Policy & Management, Tsinghua University</br></p>
+      <p>[1] 2021, “Big Data Methods in Social Science Research”<br>Hamilton College</br></p>
+      <p>[2] 2021, “2021, Two-Day Lecture on “Application of Big Data Methods in Social Science Research: Take Computational Text Analysis as an Example”<br>School of Public Policy & Management, Tsinghua University</br></p>
       '
     design:
       columns: '2'
-  - block: collection
-    content:
-      title: My Publications
-      text: 
-      filters:
-        folders: 
-         - my publications
-    design:
-      columns: '2'
-      view: list
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
   
 ---
