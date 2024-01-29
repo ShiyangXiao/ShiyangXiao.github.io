@@ -67,9 +67,9 @@ sections:
   - block: collection
     content:
       title: Publications
-      text: '1.aa
-             2.bb
-             3.cc'
+      text: 1.aa
+            2.bb
+            3.cc
     design:
       columns: '2'
   - block: collection
