@@ -67,11 +67,13 @@ sections:
   - block: collection
     content:
       title: My Publications
-      text: 'k;'
+      text: 
       filters:
-        folders: []
+        folders: 
+         - my publications
     design:
       columns: '2'
+      view: list
   - block: collection
     id: talks
     content:
