@@ -89,9 +89,12 @@ sections:
     content:
       title: Publications
       text: 
-      ## sdsdsdddsdddddd 
-      ## lllll
-      ## kkkk
+       ## sdsdsdddsdddddd 
+       - kkkkk
+       ## lllll
+       - iiiii
+       ## kkkk
+       - uuuuu
     design:
       columns: '2'
 ---
