@@ -88,7 +88,7 @@ sections:
     id: section-1
     content:
       title: Publications
-      text: sdsdsdddsddddddlkljljljjllj - jjj<br>iiiiiiii<br>kkkkkkk'
+      text: '[1] Chen, C., Xiao, S., & Zhao, B. (2023). Machine Learning Meets the Journal of Public Budgeting & Finance: Topics and Trends Over 40 Years. Public Budgeting & Finance, 43(4): 3-23.<br>iiiiiiii<br>kkkkkkk'
     design:
       columns: '2'
 ---
