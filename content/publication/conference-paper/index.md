@@ -29,7 +29,7 @@ publication_types: ['working paper']
 publication: Working Paper
 publication_short: ''
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Effective governance requires a balance between political control and bureaucratic discretion. Sometimes, bureaucrats may voluntarily curtail their use of discretion in response to political control from above, even when they have the formal authority to make decisions. In this article, we argue that in an under-institutionalized accountability system, top-down inspections as a political control instrument can cause widespread decrease in bureaucrats’ preference to use discretion in policymaking by provoking their risk-avoidance strategies. We substantiate this claim by examining the effect of central disciplinary inspections on provincial industrial policymaking in China. Using an original dataset of 612 central-level and 1907 provincial-level industrial policies stipulated between 2001 and 2019, we find that Chinese provincial governments significantly decrease their preference for using discretion in industrial policymaking during inspection active periods. This is shown by reduced willingness of provincial governments to enact local-initiated industrial policies relative to center-following ones. Moreover, we find that central disciplinary inspections have a stronger impact on uninspected provinces who observe their peers being inspected than on provinces being inspected themselves. Additional analysis suggests that central disciplinary inspections, by dampening bureaucrats' preference for using discretion in policymaking, lead to increasing policy homogeneity across provinces in China.
 
 # Summary. An optional shortened abstract.
 summary: In this article, we argue that in an under-institutionalized accountability system, top-down inspections as a political control instrument can cause widespread decrease in bureaucrats’ preference to use discretion in policymaking by provoking their risk-avoidance strategies. 
@@ -45,7 +45,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: ''
 url_project: ''
