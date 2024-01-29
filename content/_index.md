@@ -89,10 +89,10 @@ sections:
     content:
       title: Publications
       text: '
-      <p>[1] Chen, C., Xiao, S., & Zhao, B. (2023). Machine Learning Meets the Journal of Public Budgeting & Finance: Topics and Trends Over 40 Years. <i>Public Budgeting & Finance</i>, 43(4): 3-23.</p>
-      <p>[2] Xiao, S., & Zhu, X. (2022). Bureaucratic Control and Strategic Compliance: How Do Subnational Governments Implement Central Guidelines in China? <i>Journal of Public Administration Research and Theory</i>, 32(2), 342-359.</p>
-      <p>[3] Ma, Y., & Xiao, S. (2021). Math and Science Identity Change and Paths into and out of STEM: Gender and Racial Disparities. <i>Socius</i>, 7.</p>
-      <p>[4] Xiao, S. (2020). Multi-Centre Collaborative Governance Network For Epidemic Prevention and Control. <i>China Public Administration Review "Frontline Observation on the Fight against Covid-19" Online Column</i>.</p>'
+      <p>[1] Chen, C., <strong>Xiao, S.</strong>, & Zhao, B. (2023). <a href="https://onlinelibrary.wiley.com/doi/10.1111/pbaf.12348?af=R">Machine Learning Meets the Journal of Public Budgeting & Finance: Topics and Trends Over 40 Years.</a> <i>Public Budgeting & Finance</i>, 43(4): 3-23.</p>
+      <p>[2] <strong>Xiao, S.</strong>, & Zhu, X. (2022). <a href="https://academic.oup.com/jpart/article-abstract/32/2/342/6325144?redirectedFrom=fulltext"> Bureaucratic Control and Strategic Compliance: How Do Subnational Governments Implement Central Guidelines in China?</a> <i>Journal of Public Administration Research and Theory</i>, 32(2), 342-359.</p>
+      <p>[3] Ma, Y., & <strong>Xiao, S.</strong> (2021). <a href="https://journals.sagepub.com/doi/full/10.1177/23780231211001978">Math and Science Identity Change and Paths into and out of STEM: Gender and Racial Disparities.</a> <i>Socius</i>, 7.</p>
+      <p>[4] <strong>Xiao, S.</strong> (2020). <a href="https://mp.weixin.qq.com/s/rzdo1SI2SFQzqW9l0k0CfQ">Multi-Centre Collaborative Governance Network For Epidemic Prevention and Control.</a> <i>China Public Administration Review "Frontline Observation on the Fight against Covid-19" Online Column</i>.</p>'
     design:
       columns: '2'
 ---
