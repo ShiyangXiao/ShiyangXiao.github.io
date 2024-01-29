@@ -42,9 +42,10 @@ sections:
       title: ""
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
+  - block: research
+    id: research
     content:
-      title: Skills
+      title: Research
       text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
