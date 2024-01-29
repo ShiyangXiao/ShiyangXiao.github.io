@@ -84,4 +84,10 @@ sections:
     design:
       columns: '2'
       view: compact
+  - block: markdown
+    id: section-1
+    content:
+      title: Section 1
+      subtitle: A subtitle
+      text: Add any **markdown** formatted cont
 ---
