@@ -64,15 +64,13 @@ sections:
     design:
       columns: '2'
       view: list
-  - block: collection
+  - block: collection2
     content:
-      title: Publications
-      text: 1.aa
-            2.bb
-            3.cc
+      title: My Publications
+      text: 'k;'
     design:
       columns: '2'
-  - block: collection
+  - block: collection3
     id: talks
     content:
       title: Recent & Upcoming Talks
