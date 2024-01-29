@@ -53,17 +53,39 @@ sections:
     design:
       columns: '2'
       view: card 
-  - block: collection
+  - block: markdown
+    id: section-1
     content:
-      title: Publications
-      text: 
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
+      title: Peer-Reviewed Publications
+      text: '
+      <p>[1] Chen, C., <strong>Xiao, S.</strong>, & Zhao, B. (2023). <a href="https://onlinelibrary.wiley.com/doi/10.1111/pbaf.12348?af=R">Machine Learning Meets the Journal of Public Budgeting & Finance: Topics and Trends Over 40 Years.</a> <i>Public Budgeting & Finance</i>, 43(4): 3-23.</p>
+      <p>[2] <strong>Xiao, S.</strong>, & Zhu, X. (2022). <a href="https://academic.oup.com/jpart/article-abstract/32/2/342/6325144?redirectedFrom=fulltext"> Bureaucratic Control and Strategic Compliance: How Do Subnational Governments Implement Central Guidelines in China?</a> <i>Journal of Public Administration Research and Theory</i>, 32(2), 342-359.</p>
+      <p>[3] Ma, Y., & <strong>Xiao, S.</strong> (2021). <a href="https://journals.sagepub.com/doi/full/10.1177/23780231211001978">Math and Science Identity Change and Paths into and out of STEM: Gender and Racial Disparities.</a> <i>Socius</i>, 7.</p>
+      <p>[4] <strong>Xiao, S.</strong> (2020). <a href="https://mp.weixin.qq.com/s/rzdo1SI2SFQzqW9l0k0CfQ">Multi-Centre Collaborative Governance Network For Epidemic Prevention and Control.</a> <i>China Public Administration Review "Frontline Observation on the Fight against Covid-19" Online Column</i>.</p>'
     design:
       columns: '2'
-      view: citation
+  - block: markdown
+    id: section-2
+    content:
+      title: Book Chapter
+      text: '<p>Zhang, F., & <strong>Xiao, S.</strong> (2016). <i>The U.S. Government Fiscal and Debt Crisis: Lessons for China.</i> Beijing: Peking University Press. 
+      '
+    design:
+      columns: '2'
+  - block: markdown
+    id: section-3
+    content:
+      title: Teaching
+      text: '
+      <p><strong>Teaching Assistant</strong></p>
+      <p>[1] Summer 2019, Public Policy and Good Governance Program, Teaching Assistant<br>Maxwell School of Citizenship and Public Affairs, Syracuse University</br></p>
+      <p>[2] Spring 2017, Development Strategy and Planning, Teaching Assistant<br>School of Public Policy & Management, Tsinghua University</br></p>
+      <p><strong>Guest Lectures</strong></p>
+      <p>2021, “Big Data Methods in Social Science Research”<br>Hamilton College</br></p>
+      <p>2021, “2021, Two-Day Lecture on “Application of Big Data Methods in Social Science Research: Take Computational Text Analysis as an Example””<br>School of Public Policy & Management, Tsinghua University</br></p>
+      '
+    design:
+      columns: '2'
   - block: collection
     content:
       title: My Publications
@@ -84,15 +106,5 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: markdown
-    id: section-1
-    content:
-      title: Publications
-      text: '
-      <p>[1] Chen, C., <strong>Xiao, S.</strong>, & Zhao, B. (2023). <a href="https://onlinelibrary.wiley.com/doi/10.1111/pbaf.12348?af=R">Machine Learning Meets the Journal of Public Budgeting & Finance: Topics and Trends Over 40 Years.</a> <i>Public Budgeting & Finance</i>, 43(4): 3-23.</p>
-      <p>[2] <strong>Xiao, S.</strong>, & Zhu, X. (2022). <a href="https://academic.oup.com/jpart/article-abstract/32/2/342/6325144?redirectedFrom=fulltext"> Bureaucratic Control and Strategic Compliance: How Do Subnational Governments Implement Central Guidelines in China?</a> <i>Journal of Public Administration Research and Theory</i>, 32(2), 342-359.</p>
-      <p>[3] Ma, Y., & <strong>Xiao, S.</strong> (2021). <a href="https://journals.sagepub.com/doi/full/10.1177/23780231211001978">Math and Science Identity Change and Paths into and out of STEM: Gender and Racial Disparities.</a> <i>Socius</i>, 7.</p>
-      <p>[4] <strong>Xiao, S.</strong> (2020). <a href="https://mp.weixin.qq.com/s/rzdo1SI2SFQzqW9l0k0CfQ">Multi-Centre Collaborative Governance Network For Epidemic Prevention and Control.</a> <i>China Public Administration Review "Frontline Observation on the Fight against Covid-19" Online Column</i>.</p>'
-    design:
-      columns: '2'
+  
 ---
