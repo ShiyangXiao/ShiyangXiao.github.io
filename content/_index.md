@@ -53,7 +53,7 @@ sections:
     design:
       columns: '2'
       view: card 
-  - block: collection2
+  - block: collection
     id: talks
     content:
       title: Recent & Upcoming Talks
@@ -63,4 +63,4 @@ sections:
     design:
       columns: '2'
       view: compact
-
+---
