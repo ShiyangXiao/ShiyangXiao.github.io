@@ -68,6 +68,8 @@ sections:
     content:
       title: My Publications
       text: 'k;'
+      filters:
+        folders: []
     design:
       columns: '2'
   - block: collection
