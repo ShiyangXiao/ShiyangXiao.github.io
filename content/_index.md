@@ -72,7 +72,6 @@ sections:
              3.cc'
     design:
       columns: '2'
-      view: list
   - block: collection
     id: talks
     content:
