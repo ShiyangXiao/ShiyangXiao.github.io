@@ -88,10 +88,11 @@ sections:
     id: section-1
     content:
       title: Publications
-      text: kChen, C.
-            kkkkk
-            kkkk
-            kkkkk
+      text:  
+      kChen, C.
+      _kkkkk_
+      kkkk
+      kkkkk
     design:
       columns: '2'
 ---
