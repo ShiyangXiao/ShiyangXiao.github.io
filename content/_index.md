@@ -54,6 +54,17 @@ sections:
       columns: '2'
       view: card 
   - block: collection
+    content:
+      title: Publications
+      text: 
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: list
+  - block: collection
     id: talks
     content:
       title: Recent & Upcoming Talks
