@@ -88,9 +88,7 @@ sections:
     id: section-1
     content:
       title: Publications
-      text: '- sdsdsdddsddddddlkljljljjllj - jjj
-             - iiiiiiii
-             - kkkkkkk'
+      text: sdsdsdddsddddddlkljljljjllj - jjj<br>iiiiiiii<br>kkkkkkk'
     design:
       columns: '2'
 ---
