@@ -53,15 +53,14 @@ sections:
     design:
       columns: '2'
       view: card 
-  - block: collection
+  - block: collection1
     content:
       title: Publications
-      text: '1. sdsd; 
+      text: 1. sdsd; 
             2. sddsdsdsd;
-            3. dddddddd'
+            3. dddddddd
     design:
       columns: '2'
-      view: list
   - block: collection
     id: talks
     content:
