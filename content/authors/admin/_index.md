@@ -111,7 +111,10 @@ Welcome to my website!
 
 My name is Shiyang Xiao. I am a Ph.D. candidate in the Maxwell School of Citizenship and Public Affairs at Syracuse University, advised by Professor Yilin Hou. I am on the academic job market for 2023-24. 
 
-My research interests span the fields of public administration, policy process, bureaucracy, intergovernmental relations, and public budgeting and finance. Methodologically, I have a strong interest in applying computational text analysis methods to social science research. My work has been published in peer-reviewed journals, including _Journal of Public Administration Research and Theory_, _Public Budgeting & Finance_, _Socius: Sociological Research for a Dynamic World_, and the online column at _China Public Administration Review_.
+My research interests span the fields of public administration, policy process, bureaucracy, intergovernmental relations, and public budgeting and finance. Methodologically, I have a strong interest in applying computational text analysis methods to social science research. My work has been published in peer-reviewed journals, including [_Journal of Public Administration Research and Theory_](https://academic.oup.com/jpart/article-abstract/32/2/342/6325144?redirectedFrom=fulltext), [_Public Budgeting & Finance_](https://onlinelibrary.wiley.com/doi/10.1111/pbaf.12348?af=R), [_Socius: Sociological Research for a Dynamic World_](https://journals.sagepub.com/doi/full/10.1177/23780231211001978), and the online column at [_China Public Administration Review_](https://mp.weixin.qq.com/s/rzdo1SI2SFQzqW9l0k0CfQ).
 
 If you have any question, feel free to email me at sxiao11@syr.edu.
 
+
+
+[jpart]: https://academic.oup.com/jpart/article-abstract/32/2/342/6325144?redirectedFrom=fulltext
