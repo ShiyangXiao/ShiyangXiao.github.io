@@ -87,7 +87,11 @@ sections:
   - block: markdown
     id: section-1
     content:
-      title: Section 1
-      subtitle: A subtitle
-      text: Add any **markdown** formatted cont
+      title: Publications
+      text: # Heading 2
+            - sdsdsd
+            - sdds
+            - dddddd
+    design:
+      columns: '2'
 ---
