@@ -11,13 +11,13 @@ main:
     url: uploads/resume.pdf
     weight: 20
   - name: Research
-    url: '#research'
+    url: '#featured'
     weight: 30
   - name: Data
-    url: '#data'
+    url: '#section-3'
     weight: 40
   - name: Teaching
-    url: '#teaching'
+    url: '#section-4'
     weight: 50
 
 
