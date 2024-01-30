@@ -72,6 +72,17 @@ sections:
       '
     design:
       columns: '2'
+  - block: collection
+    id: featured2
+    content:
+      title: Data
+      filters:
+        folders:
+          - dataset
+        featured_only: true
+    design:
+      columns: '2'
+      view: card 
   - block: markdown
     id: section-3
     content:
