@@ -27,8 +27,7 @@ publication_types: ['original dataset']
 publication: Original Dataset
 publication_short: ''
 
-abstract: 'Chinese Industrial Policy Attention Dataset (CIPAD) is an original dataset which holds over 2500 Chinese industrial policies from 2001 to 2019, along with their allocation of attentiona across 155 manufacturing industry categories.
-'
+abstract: Chinese Industrial Policy Attention Dataset (CIPAD) is an original dataset which holds over 2500 Chinese industrial policies from 2001 to 2019, along with their allocation of attentiona across 155 manufacturing industry categories.
 
 # Summary. An optional shortened abstract.
 summary: Chinese Industrial Policy Attention Dataset (CIPAD) is an original dataset which holds over 2500 Chinese industrial policies from 2001 to 2019, along with their allocation of attentiona across 155 manufacturing industry categories.
