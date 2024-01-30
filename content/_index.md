@@ -78,7 +78,7 @@ sections:
       title: Data
       filters:
         folders:
-          - dataset
+          - publication copy
         featured_only: true
     design:
       columns: '2'
