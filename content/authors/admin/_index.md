@@ -25,7 +25,7 @@ organizations:
     url: https://www.maxwell.syr.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Welcome to my website! I am a Ph.D. candidate in Social Science, Syracuse University
+bio: Welcome! I am a Ph.D. candidate in the Maxwell School of Citizenship and Public Affairs at Syracuse University.
 
 
 # Interests to show in About widget
