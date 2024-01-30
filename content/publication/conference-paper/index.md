@@ -1,5 +1,5 @@
 ---
-title: "The Dilemma of Political Control: Top-Down Inspection, Risk Avoidance, and Bureaucrats' Preference for Using Discretion in Policymaking"
+title: "The Dilemma of Political Control: Top-Down Inspection and Its Impact on Bureaucrats' Preference for Using Discretion in Policymaking"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
