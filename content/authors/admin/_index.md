@@ -25,7 +25,7 @@ organizations:
     url: https://www.maxwell.syr.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Welcome! I am a Ph.D. candidate in the Maxwell School of Citizenship and Public Affairs at Syracuse University.
+bio: Welcome! I am a Ph.D. candidate in Social Science, Syracuse University.
 
 
 # Interests to show in About widget
@@ -113,7 +113,7 @@ My name is Shiyang Xiao. I am a Ph.D. candidate in the Maxwell School of Citizen
 
 My research interests span the fields of public administration, policy process, governance and bureaucracy, intergovernmental relations, and public budgeting and finance. Methodologically, I have a strong interest and experience in applying big data and computational text analysis methods to social science research. My work has been published in peer-reviewed journals, including [_Journal of Public Administration Research and Theory_](https://academic.oup.com/jpart/article-abstract/32/2/342/6325144?redirectedFrom=fulltext), [_Public Budgeting & Finance_](https://onlinelibrary.wiley.com/doi/10.1111/pbaf.12348?af=R), [_Socius: Sociological Research for a Dynamic World_](https://journals.sagepub.com/doi/full/10.1177/23780231211001978), and the online column at [_China Public Administration Review_](https://mp.weixin.qq.com/s/rzdo1SI2SFQzqW9l0k0CfQ).
 
-I constructed the "Chinese Industrial Policy Attention Dataset" (CIPAD) which holds over 2500 Chinese industrial policies from 2001 to 2019, along with their allocation of attention across 155 manufacturing industry categories. This dataset allows for identification of the most mentioned industry categories in each policy and comparison of similarities between different policies.
+I constructed the [_"Chinese Industrial Policy Attention Dataset" (CIPAD)_](uploads/dataset.pdf) which holds over 2500 Chinese industrial policies from 2001 to 2019, along with their allocation of attention across 155 manufacturing industry categories. This dataset allows for identification of the most mentioned industry categories in each policy and comparison of similarities between policies.
 
 If you have any question, feel free to email me at sxiao11@syr.edu.
 
