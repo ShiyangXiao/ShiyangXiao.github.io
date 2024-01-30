@@ -1,11 +1,13 @@
 ---
-title: 'Chinese Industrial Policy Attention Dataset'
+title: 'The Dilemma of Political Control'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Yilin Hou
+  - Mary Lovely
 
 # Author notes (optional)
 # author_notes:
@@ -21,16 +23,16 @@ publishDate: '2024-01-28T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['original dataset']
+publication_types: ['working paper']
 
 # Publication name and optional abbreviated publication name.
-publication: Original Dataset
+publication: Working Paper
 publication_short: ''
 
 abstract: Effective governance requires a balance between political control and bureaucratic discretion. Sometimes, bureaucrats may voluntarily curtail their use of discretion in response to political control from above, even when they have the formal authority to make decisions. In this article, we argue that in an under-institutionalized accountability system, top-down inspections as a political control instrument can cause widespread decrease in bureaucrats’ preference to use discretion in policymaking by provoking their risk-avoidance strategies. We substantiate this claim by examining the effect of central disciplinary inspections on provincial industrial policymaking in China. Using an original dataset of 612 central-level and 1907 provincial-level industrial policies stipulated between 2001 and 2019, we find that Chinese provincial governments significantly decrease their preference for using discretion in industrial policymaking during inspection active periods. This is shown by reduced willingness of provincial governments to enact local-initiated industrial policies relative to center-following ones. Moreover, we find that central disciplinary inspections have a stronger impact on uninspected provinces who observe their peers being inspected than on provinces being inspected themselves. Additional analysis suggests that central disciplinary inspections, by dampening bureaucrats' preference for using discretion in policymaking, lead to increasing policy homogeneity across provinces in China.
 
 # Summary. An optional shortened abstract.
-summary: Chinese Industrial Policy Attention Dataset (CIPAD) is an original dataset which holds over 2500 Chinese industrial policies from 2001 to 2019, along with their allocation of attentiona across 155 manufacturing industry categories.
+summary: In this article, we argue that in an under-institutionalized accountability system, top-down inspections as a political control instrument can cause widespread decrease in bureaucrats’ preference to use discretion in policymaking by provoking their risk-avoidance strategies. 
 
 tags: []
 
