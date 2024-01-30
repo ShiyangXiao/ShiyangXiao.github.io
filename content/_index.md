@@ -68,23 +68,22 @@ sections:
     id: section-2
     content:
       title: Book Chapter
-      text: '<p>Zhang, F., & <strong>Xiao, S.</strong> (2016). <i>The U.S. Government Fiscal and Debt Crisis: Lessons for China.</i> Beijing: Peking University Press. 
+      text: '<p>[1] Zhang, F., & <strong>Xiao, S.</strong> (2016). <i>The U.S. Government Fiscal and Debt Crisis: Lessons for China.</i> Beijing: Peking University Press. 
       '
     design:
       columns: '2'
-  - block: collection
-    id: featured2
-    content:
-      title: Data
-      filters:
-        folders:
-          - publication copy
-        featured_only: true
-    design:
-      columns: '2'
-      view: card 
   - block: markdown
     id: section-3
+    content:
+      title: Dataset
+      text: '
+      <p><strong>Chinese Industrial Policy Attention Dataset (CIPAD)</strong></p>
+      <p>The Chinese Industrial Policy Attention Dataset (CIPAD) is an original dataset which holds over 2500 Chinese industrial policies from 2001 to 2019, along with their allocation of attention across 155 manufacturing industry categories. By transforming each policy full text into a distribution-of-attention vector, this dataset allows for quick identification of the most mentioned industry categories in each policy and comparison of similarities between different policies.'</p>
+      <p>If you want to learn more about the CIPAD, please check the <a href="uploads/jmp.pdf">Dataset Introduction</a> here.'</p>
+    design:
+      columns: '2'  
+  - block: markdown
+    id: section-4
     content:
       title: Teaching
       text: '
